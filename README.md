@@ -4,7 +4,8 @@ Members :
 * Nicholas Valerianus Budiman (2502055596)
 
 Class : L5AC
-Cours : Compilation Techniques (COMP6062001)
+
+Course : Compilation Techniques (COMP6062001)
 
 ## Successful Testing Documentation
 1. Valid Input
