@@ -1,6 +1,10 @@
 # Calculator Scanner Assignment
+Members : 
 * Maria Clarin (2501990331)
 * Nicholas Valerianus Budiman (2502055596)
+
+Class : L5AC
+Cours : Compilation Techniques (COMP6062001)
 
 ## Successful Testing Documentation
 1. Valid Input
